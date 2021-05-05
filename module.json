@@ -1,0 +1,46 @@
+{   
+   "name": "decosta",   
+   "title": "Módulo Pessoal de _Costa",   
+   "description": "Esse módulo tem mapas, atores, diários e itens de minha campanha Contos em Khorvaire",   
+   "author": "_Costa",
+   "version": "0.0.1",
+   "minimumCoreVersion": "0.7.9",
+   "compatibleCoreVersion":"0.7.9",
+   "packs": [
+    {
+      "name": "atores-decosta",
+      "label": "Atores da Campanha",
+      "path": "packs/atores-decosta.db",
+      "entity": "Actor",
+      "module": "decosta"
+    },
+    {
+      "name": "cenas-decosta",
+      "label": "Cenas da Campanha",
+      "path": "packs/cenas-decosta.db",
+      "entity": "Scene",
+      "module": "decosta"
+    },
+    {
+      "name": "diarios-decosta",
+      "label": "Diários da Campanha",
+      "path": "packs/diarios-decosta.db",
+      "entity": "JournalEntry",
+      "module": "decosta"
+    },
+	{
+      "name": "itens-decosta",
+      "label": "Itens da Campanha",
+      "path": "packs/itens-decosta.db",
+      "entity": "Item",
+      "module": "decosta"
+    },
+	{
+      "name": "tabelas-decosta",
+      "label": "Tabelas da Campanha",
+      "path": "packs/tabelas-decosta.db",
+      "entity": "RollTable",
+      "module": "decosta"
+    }
+  ]
+ }

@@ -43,7 +43,7 @@
       "module": "decosta"
     }
   ],
-"url": "https://github.com/GabrielOsvair/decosta",
-"manifest": "https://raw.githubusercontent.com/GabrielOsvair/decosta/main/module.json",  
-"download": "https://github.com/GabrielOsvair/decosta/archive/refs/heads/main.zip",
+  "url": "https://github.com/GabrielOsvair/decosta",
+  "manifest": "https://raw.githubusercontent.com/GabrielOsvair/decosta/main/module.json",
+  "download": "https://github.com/GabrielOsvair/decosta/archive/refs/heads/main.zip"
  }

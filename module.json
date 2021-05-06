@@ -41,6 +41,13 @@
       "path": "packs/tabelas-decosta.db",
       "entity": "RollTable",
       "module": "decosta"
+    },
+	{
+      "name": "macros-decosta",
+      "label": "Macros da Campanha",
+      "path": "packs/macros-decosta.db",
+      "entity": "Macro",
+      "module": "decosta"
     }
   ],
   "url": "https://github.com/GabrielOsvair/decosta",

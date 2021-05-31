@@ -3,9 +3,9 @@
    "title": "Módulo Pessoal de _Costa",   
    "description": "Esse módulo tem mapas, atores, diários e itens de minha campanha Contos em Khorvaire",   
    "author": "_Costa",
-   "version": "0.0.4.1",
+   "version": "0.0.5",
    "minimumCoreVersion": "0.7.9",
-   "compatibleCoreVersion":"0.7.9",
+   "compatibleCoreVersion":"0.8.6",
    "packs": [
     {
       "name": "atores-decosta",

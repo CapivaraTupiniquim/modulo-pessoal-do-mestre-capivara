@@ -1,11 +1,11 @@
 {   
    "name": "decosta",   
    "title": "Módulo Pessoal de _Costa",   
-   "description": "Esse módulo tem mapas, atores, diários e itens de minha campanha Contos em Khorvaire",   
+   "description": "Esse módulo contém cenas, atores, diários, macros, playlist e itens de minha campanha Contos em Khorvaire",   
    "author": "_Costa",
-   "version": "0.0.5",
-   "minimumCoreVersion": "0.7.9",
-   "compatibleCoreVersion":"0.8.6",
+   "version": "0.0.6",
+   "minimumCoreVersion": "0.7.10",
+   "compatibleCoreVersion":"0.8.7",
    "packs": [
     {
       "name": "atores-decosta",
@@ -42,6 +42,13 @@
       "entity": "RollTable",
       "module": "decosta"
     },
+	{
+      "name": "playlist-decosta",
+      "label": "Playlist da Campanha",
+      "path": "packs/playlist-decosta.db",
+      "entity": "Playlist",
+      "module": "decosta"
+	},
 	{
       "name": "macros-decosta",
       "label": "Macros da Campanha",

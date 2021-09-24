@@ -3,8 +3,8 @@
    "title": "Módulo Pessoal de _Costa",   
    "description": "Esse módulo contém cenas, atores, diários, macros, playlist e itens de minha campanha Contos em Khorvaire",   
    "author": "_Costa",
-   "version": "0.1",
-   "minimumCoreVersion": "0.7.9",
+   "version": "0.1.1",
+   "minimumCoreVersion": "0.8.x",
    "compatibleCoreVersion":"0.8.9",
    "packs": [
     {

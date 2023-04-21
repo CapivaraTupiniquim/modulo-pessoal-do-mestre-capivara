@@ -1,62 +1,81 @@
 {   
-   "name": "decosta",   
+   "id": "decosta",   
    "title": "Módulo Pessoal de _Costa",   
    "description": "Esse módulo contém cenas, atores, diários, macros, playlist e itens de minha campanha Contos em Khorvaire",   
-   "author": "_Costa",
-   "version": "0.1.5",
-   "minimumCoreVersion": "0.8.6",
-   "compatibleCoreVersion":"9",
+   
+   "authors": [
+   {
+	   "name": "_Costa",
+	   "url": "https://github.com/GabrielOsvair",
+	   "patreon": "https://www.patreon.com/griffinsandclawsstudio"
+   }
+   ],
+   
+   "version": "0.2",
+   "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+   
    "packs": [
     {
       "name": "atores-decosta",
       "label": "Atores da Campanha",
       "path": "packs/atores-decosta.db",
-      "entity": "Actor",
-      "module": "decosta"
+      "type": "Actor",
+      "module": "decosta",
+	  "system": "dnd5e"
     },
     {
       "name": "cenas-decosta",
       "label": "Cenas da Campanha",
       "path": "packs/cenas-decosta.db",
-      "entity": "Scene",
-      "module": "decosta"
+      "type": "Scene",
+      "module": "decosta",
+	  "system": "dnd5e"
     },
     {
       "name": "diarios-decosta",
       "label": "Diários da Campanha",
       "path": "packs/diarios-decosta.db",
-      "entity": "JournalEntry",
-      "module": "decosta"
+      "type": "JournalEntry",
+      "module": "decosta",
+	  "system": "dnd5e"
     },
 	{
       "name": "itens-decosta",
       "label": "Itens da Campanha",
       "path": "packs/itens-decosta.db",
-      "entity": "Item",
-      "module": "decosta"
+      "type": "Item",
+      "module": "decosta",
+	  "system": "dnd5e"
     },
 	{
       "name": "tabelas-decosta",
       "label": "Tabelas da Campanha",
       "path": "packs/tabelas-decosta.db",
-      "entity": "RollTable",
-      "module": "decosta"
+      "type": "RollTable",
+      "module": "decosta",
+	  "system": "dnd5e"
     },
 	{
       "name": "playlist-decosta",
       "label": "Playlist da Campanha",
       "path": "packs/playlist-decosta.db",
-      "entity": "Playlist",
-      "module": "decosta"
+      "type": "Playlist",
+      "module": "decosta",
+	  "system": "dnd5e"
 	},
 	{
       "name": "macros-decosta",
       "label": "Macros da Campanha",
       "path": "packs/macros-decosta.db",
-      "entity": "Macro",
-      "module": "decosta"
+      "type": "Macro",
+      "module": "decosta",
+	  "system": "dnd5e"
     }
   ],
+  
   "url": "https://github.com/GabrielOsvair/decosta",
   "manifest": "https://raw.githubusercontent.com/GabrielOsvair/decosta/main/module.json",
   "download": "https://github.com/GabrielOsvair/decosta/archive/refs/heads/main.zip"

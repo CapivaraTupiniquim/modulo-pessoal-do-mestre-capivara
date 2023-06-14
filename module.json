@@ -1,7 +1,7 @@
 {   
    "id": "decosta",   
    "title": "Módulo Pessoal de _Costa",   
-   "description": "Esse módulo contém cenas, atores, diários, macros, playlist e itens de minha campanha Contos em Khorvaire",   
+   "description": "Esse módulo contém cenas, atores, diários, macros, playlists, baralhos e itens de minha campanha Contos em Khorvaire, customizados e outros",   
    
    "authors": [
    {
@@ -11,7 +11,7 @@
    }
    ],
    
-   "version": "0.2",
+   "version": "0.2.1",
    "compatibility": {
     "minimum": "10",
     "verified": "10"
@@ -19,57 +19,65 @@
    
    "packs": [
     {
-      "name": "atores-decosta",
-      "label": "Atores da Campanha",
-      "path": "packs/atores-decosta.db",
+      "name": "atores-de-costa",
+      "label": "Atores de _Costa",
+      "path": "packs/atores-de-costa.db",
       "type": "Actor",
       "module": "decosta",
 	  "system": "dnd5e"
     },
+	{
+      "name": "baralhos-de-costa",
+      "label": "Baralhos de _Costa",
+      "path": "packs/baralhos-de-costa.db",
+      "type": "Cards",
+      "module": "decosta",
+	  "system": "dnd5e"
+    },
     {
-      "name": "cenas-decosta",
-      "label": "Cenas da Campanha",
-      "path": "packs/cenas-decosta.db",
+      "name": "cenas-de-costa",
+      "label": "Cenas de _Costa",
+      "path": "packs/cenas-de-costa.db",
       "type": "Scene",
       "module": "decosta",
 	  "system": "dnd5e"
     },
     {
-      "name": "diarios-decosta",
-      "label": "Diários da Campanha",
-      "path": "packs/diarios-decosta.db",
+      "name": "diarios-de-costa",
+      "label": "Diários de _Costa",
+      "path": "packs/diarios-de-costa.db",
       "type": "JournalEntry",
       "module": "decosta",
 	  "system": "dnd5e"
     },
 	{
-      "name": "itens-decosta",
-      "label": "Itens da Campanha",
-      "path": "packs/itens-decosta.db",
+      "name": "itens-de-costa",
+      "label": "Itens de _Costa",
+      "path": "packs/itens-de-costa.db",
       "type": "Item",
       "module": "decosta",
 	  "system": "dnd5e"
     },
 	{
-      "name": "tabelas-decosta",
-      "label": "Tabelas da Campanha",
-      "path": "packs/tabelas-decosta.db",
+      "name": "tabelas-de-costa",
+      "label": "Tabelas de _Costa",
+      "path": "packs/tabelas-de-costa.db",
       "type": "RollTable",
       "module": "decosta",
 	  "system": "dnd5e"
     },
 	{
-      "name": "playlist-decosta",
-      "label": "Playlist da Campanha",
-      "path": "packs/playlist-decosta.db",
+      "name": "playlists-de-costa",
+      "label": "Playlists de _Costa",
+      "path": "packs/playlists-de-costa.db",
       "type": "Playlist",
       "module": "decosta",
 	  "system": "dnd5e"
 	},
 	{
-      "name": "macros-decosta",
-      "label": "Macros da Campanha",
-      "path": "packs/macros-decosta.db",
+      "name": "macros-de-costa",
+      "label": "Macros de _Costa",
+      "path": "packs/macros-de-costa.db",
       "type": "Macro",
       "module": "decosta",
 	  "system": "dnd5e"

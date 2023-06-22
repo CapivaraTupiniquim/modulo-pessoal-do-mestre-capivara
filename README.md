@@ -6,7 +6,7 @@ Um módulo contendo o conteúdo utilizado no Foundry VTT do mestre Costa. Utiliz
 ## Instalação:
 Você pode instalar esse módulo usando o link do manifesto:
 
-```https://github.com/TheGiddyLimit/plutonium-addon-automation/releases/latest/download/module.json```
+```https://raw.githubusercontent.com/GabrielOsvair/decosta/main/module.json```
 
 
 ## Contato:

@@ -3,8 +3,14 @@
 
 Um módulo contendo o conteúdo utilizado no Foundry VTT do mestre Costa. Utilizando do sistema Dungeons and Dragons 5e. Conteúdo em compêndios para possibilitar a sincronização de itens, atores, cenas, tabelas, playlists, macros, baralhos, etc.
 
+## Instalação:
+Você pode instalar esse módulo usando o link do manifesto:
+
+```https://github.com/TheGiddyLimit/plutonium-addon-automation/releases/latest/download/module.json```
+
+
 ## Contato:
-Discord: _Costa#1356
+Discord: @_costa
 
 Servidor: [Griffins and Claws Studio](https://discord.gg/2Tbg9TJt4u)
 
@@ -97,7 +103,6 @@ Token Attacher
 Token Magic FX
 Token Variant Art
 Wall Height
-Walls Have Ears - Muffled sounds behind walls
 Warp Gate
 Zoom/Pan Options
 ```

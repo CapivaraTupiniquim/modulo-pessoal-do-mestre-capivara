@@ -1,4 +1,5 @@
 ## decosta
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#0d71d6', 'O5O5MO0RL');kofiwidget2.draw();</script> 
 # Módulo pessoal do Mestre _Costa
 
 Um módulo contendo o conteúdo utilizado no Foundry VTT do mestre Costa. Utilizando do sistema Dungeons and Dragons 5e. Conteúdo em compêndios para possibilitar a sincronização de itens, atores, cenas, tabelas, playlists, macros, baralhos, etc.

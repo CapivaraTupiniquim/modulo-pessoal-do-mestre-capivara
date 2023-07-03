@@ -1,6 +1,6 @@
 ## decosta
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#0d71d6', 'O5O5MO0RL');kofiwidget2.draw();</script> 
+<a href='https://ko-fi.com/O5O5MO0RL' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 # Módulo pessoal do Mestre _Costa
 

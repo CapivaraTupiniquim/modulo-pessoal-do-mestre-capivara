@@ -14,7 +14,7 @@ Você pode instalar esse módulo usando o link do manifesto:
 
 
 ## Contato:
-Discord: @_costa
+Discord: [@_costa](https://discord.gg/AkArsrGCvX)
 
 Servidor: [Griffins and Claws Studio](https://discord.gg/2Tbg9TJt4u)
 

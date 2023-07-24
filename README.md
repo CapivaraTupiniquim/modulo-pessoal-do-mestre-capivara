@@ -25,7 +25,7 @@ Patreon: [Griffins and Claws Studio](https://www.patreon.com/griffinsandclawsstu
 ## Compatibilidade:
 [Foundry VTT](https://foundryvtt.com/) v10.xxx
 
-[D&D 5e](https://foundryvtt.com/](https://github.com/foundryvtt/dnd5e)https://github.com/foundryvtt/dnd5e) v2.2.1
+[D&D 5e](https://foundryvtt.com/](https://github.com/foundryvtt/dnd5e)https://github.com/foundryvtt/dnd5e) v2.2.2
 
 ### Módulos Ativados:
 ```

@@ -1,6 +1,6 @@
 {   
    "id": "decosta",   
-   "title": "Módulo Pessoal de _Costa",   
+   "title": "Módulo Pessoal do Mestre _Costa",   
    "description": "Esse módulo contém cenas, atores, diários, macros, playlists, baralhos e itens de minha campanha Contos em Khorvaire, customizados e outros",   
    
    "authors": [
@@ -11,10 +11,11 @@
    }
    ],
    
-   "version": "0.2.2",
+   "version": "0.2.3",
    "compatibility": {
     "minimum": "10",
-    "verified": "10"
+    "verified": "10",
+	"maximum": "11"
   },
    
    "packs": [

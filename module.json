@@ -1,91 +1,183 @@
-{   
-   "id": "decosta",   
-   "title": "Módulo Pessoal do Mestre _Costa",   
-   "description": "Esse módulo contém cenas, atores, diários, macros, playlists, baralhos e itens de minha campanha Contos em Khorvaire, customizados e outros",   
-   
-   "authors": [
-   {
-	   "name": "_Costa",
-	   "url": "https://github.com/GabrielOsvair",
-	   "patreon": "https://www.patreon.com/griffinsandclawsstudio"
-   }
-   ],
-   
-   "version": "0.2.3",
-   "compatibility": {
-    "minimum": "10",
-    "verified": "10",
-	"maximum": "11"
+{
+  "id": "modulo-pessoal-do-mestre-costa",
+  "title": "Módulo Pessoal do Mestre _Costa",
+  "version": "0.3.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
   },
-   
-   "packs": [
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "dae",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "item-piles",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "itemacro",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "midi-qol",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-active-tiles",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "wall-height",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "times-up",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dfreds-convenient-effects",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "multilevel-tokens",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Esse módulo contém cenas, atores, diários, macros, playlists, baralhos e itens de minha campanha Contos em Khorvaire, customizados e outros",
+  "authors": [
+    {
+      "name": "_Costa",
+      "discord": "_costa",
+      "url": "https://ko-fi.com/O5O5MO0RL",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/GabrielOsvair/modulo-pessoal-do-mestre-costa",
+  "media": [
+        {
+            "type": "cover",
+            "url": "https://github.com/GabrielOsvair/modulo-pessoal-do-mestre-costa/blob/main/preview.jpg"
+        },
+        {
+            "type": "setup",
+            "url": "modules/modulo-pessoal-do-mestre-costa/preview.jpg"
+        }
+    ],
+  "packs": [
     {
       "name": "atores-de-costa",
       "label": "Atores de _Costa",
-      "path": "packs/atores-de-costa.db",
+      "path": "packs/atores-de-costa",
       "type": "Actor",
-      "module": "decosta",
-	  "system": "dnd5e"
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
     },
-	{
+    {
       "name": "baralhos-de-costa",
       "label": "Baralhos de _Costa",
-      "path": "packs/baralhos-de-costa.db",
+      "path": "packs/baralhos-de-costa",
       "type": "Cards",
-      "module": "decosta",
-	  "system": "dnd5e"
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "name": "cenas-de-costa",
       "label": "Cenas de _Costa",
-      "path": "packs/cenas-de-costa.db",
+      "path": "packs/cenas-de-costa",
       "type": "Scene",
-      "module": "decosta",
-	  "system": "dnd5e"
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "name": "diarios-de-costa",
       "label": "Diários de _Costa",
-      "path": "packs/diarios-de-costa.db",
+      "path": "packs/diarios-de-costa",
       "type": "JournalEntry",
-      "module": "decosta",
-	  "system": "dnd5e"
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
     },
-	{
+    {
       "name": "itens-de-costa",
       "label": "Itens de _Costa",
-      "path": "packs/itens-de-costa.db",
+      "path": "packs/itens-de-costa",
       "type": "Item",
-      "module": "decosta",
-	  "system": "dnd5e"
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
     },
-	{
+    {
       "name": "tabelas-de-costa",
       "label": "Tabelas de _Costa",
-      "path": "packs/tabelas-de-costa.db",
+      "path": "packs/tabelas-de-costa",
       "type": "RollTable",
-      "module": "decosta",
-	  "system": "dnd5e"
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
     },
-	{
+    {
       "name": "playlists-de-costa",
       "label": "Playlists de _Costa",
-      "path": "packs/playlists-de-costa.db",
+      "path": "packs/playlists-de-costa",
       "type": "Playlist",
-      "module": "decosta",
-	  "system": "dnd5e"
-	},
-	{
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
       "name": "macros-de-costa",
       "label": "Macros de _Costa",
-      "path": "packs/macros-de-costa.db",
+      "path": "packs/macros-de-costa",
       "type": "Macro",
-      "module": "decosta",
-	  "system": "dnd5e"
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
     }
-  ],
-  
-  "url": "https://github.com/GabrielOsvair/decosta",
-  "manifest": "https://raw.githubusercontent.com/GabrielOsvair/decosta/main/module.json",
-  "download": "https://github.com/GabrielOsvair/decosta/archive/refs/heads/main.zip"
- }
+  ]
+}

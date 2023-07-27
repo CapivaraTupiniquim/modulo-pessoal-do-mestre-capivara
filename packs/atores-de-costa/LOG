@@ -1,0 +1,41 @@
+2023/07/26-22:07:33.458 2da8 Recovering log #11
+2023/07/26-22:07:33.508 2da8 Level-0 table #13: started
+2023/07/26-22:07:33.754 2da8 Level-0 table #13: 39331 bytes OK
+2023/07/26-22:07:33.990 2da8 Delete type=0 #11
+2023/07/26-22:07:33.990 2da8 Delete type=3 #10
+2023/07/26-22:10:47.256 56ac Moved #13 to level-1 39331 bytes OK: files[ 0 1 2 0 0 0 0 ]
+2023/07/26-22:10:47.333 56ac Compacting 1@1 + 2@2 files
+2023/07/26-22:10:47.664 56ac Generated table #15@1: 1591 keys, 2127512 bytes
+2023/07/26-22:10:47.803 56ac Generated table #16@1: 553 keys, 433228 bytes
+2023/07/26-22:10:47.803 56ac Compacted 1@1 + 2@2 files => 2560740 bytes
+2023/07/26-22:10:47.822 56ac compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/07/26-22:10:47.823 56ac Delete type=2 #8
+2023/07/26-22:10:47.824 56ac Delete type=2 #9
+2023/07/26-22:10:47.824 56ac Delete type=2 #13
+2023/07/26-22:11:55.519 56ac Level-0 table #18: started
+2023/07/26-22:11:55.874 56ac Level-0 table #18: 2573597 bytes OK
+2023/07/26-22:11:55.912 56ac Delete type=0 #14
+2023/07/26-22:31:08.993 56ac Level-0 table #20: started
+2023/07/26-22:31:09.059 56ac Level-0 table #20: 43835 bytes OK
+2023/07/26-22:31:09.073 56ac Delete type=0 #17
+2023/07/26-22:31:09.493 56ac Manual compaction at level-0 from '!actors!0n2XqjNaPdZpfvhy' @ 72057594037927935 : 1 .. '!folders!z05wVI8WWE8HiKue' @ 0 : 0; will stop at '!folders!RdiQMOQhXjTWwixO' @ 6476 : 1
+2023/07/26-22:31:09.493 56ac Compacting 1@0 + 1@1 files
+2023/07/26-22:31:09.763 56ac Generated table #21@0: 1620 keys, 2125473 bytes
+2023/07/26-22:31:09.859 56ac Generated table #22@0: 558 keys, 435957 bytes
+2023/07/26-22:31:09.859 56ac Compacted 1@0 + 1@1 files => 2561430 bytes
+2023/07/26-22:31:09.882 56ac compacted to: files[ 0 2 2 0 0 0 0 ]
+2023/07/26-22:31:09.882 56ac Delete type=2 #18
+2023/07/26-22:31:09.883 56ac Delete type=2 #20
+2023/07/26-22:31:10.155 56ac Manual compaction at level-0 from '!folders!RdiQMOQhXjTWwixO' @ 6476 : 1 .. '!folders!z05wVI8WWE8HiKue' @ 0 : 0; will stop at (end)
+2023/07/26-22:31:10.491 56ac Expanding@1 1+2 (2125473+2560740 bytes) to 2+2 (2561430+2560740 bytes)
+2023/07/26-22:31:10.491 56ac Manual compaction at level-1 from '!actors!0n2XqjNaPdZpfvhy' @ 72057594037927935 : 1 .. '!folders!z05wVI8WWE8HiKue' @ 0 : 0; will stop at '!folders!z05wVI8WWE8HiKue' @ 4520 : 1
+2023/07/26-22:31:10.491 56ac Compacting 2@1 + 2@2 files
+2023/07/26-22:31:10.736 56ac Generated table #23@1: 1589 keys, 2124705 bytes
+2023/07/26-22:31:10.835 56ac Generated table #24@1: 555 keys, 434456 bytes
+2023/07/26-22:31:10.835 56ac Compacted 2@1 + 2@2 files => 2559161 bytes
+2023/07/26-22:31:10.856 56ac compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/07/26-22:31:10.856 56ac Delete type=2 #15
+2023/07/26-22:31:10.857 56ac Delete type=2 #16
+2023/07/26-22:31:10.858 56ac Delete type=2 #21
+2023/07/26-22:31:10.858 56ac Delete type=2 #22
+2023/07/26-22:31:11.040 56ac Manual compaction at level-1 from '!folders!z05wVI8WWE8HiKue' @ 4520 : 1 .. '!folders!z05wVI8WWE8HiKue' @ 0 : 0; will stop at (end)

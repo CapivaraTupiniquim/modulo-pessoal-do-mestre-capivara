@@ -73,7 +73,7 @@
   ],
   "url": "https://github.com/GabrielOsvair/modulo-pessoal-do-mestre-costa",
   "manifest": "https://raw.githubusercontent.com/GabrielOsvair/modulo-pessoal-do-mestre-costa/main/module.json",
-  "download": "https://github.com/GabrielOsvair/modulo-pessoal-do-mestre-costa/archive/refs/heads/main.zip",
+  "download": "https://codeload.github.com/GabrielOsvair/modulo-pessoal-do-mestre-costa/zip/main",
   "media": [
         {
             "type": "cover",

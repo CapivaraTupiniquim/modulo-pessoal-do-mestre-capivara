@@ -1,7 +1,7 @@
 {
   "id": "modulo-pessoal-do-mestre-costa",
   "title": "Módulo Pessoal do Mestre _Costa",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -75,7 +75,7 @@
   "media": [
         {
             "type": "cover",
-            "url": "https://github.com/GabrielOsvair/modulo-pessoal-do-mestre-costa/blob/main/preview.jpg"
+            "url": "https://github.com/GabrielOsvair/modulo-pessoal-do-mestre-costa/main/preview.jpg"
         },
         {
             "type": "setup",
@@ -84,9 +84,9 @@
     ],
   "packs": [
     {
-      "name": "atores-de-costa",
-      "label": "Atores de _Costa",
-      "path": "packs/atores-de-costa",
+      "name": "atores-do-mestre-costa",
+      "label": "Atores do Mestre _Costa",
+      "path": "packs/atores-do-mestre-costa",
       "type": "Actor",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -96,9 +96,9 @@
       "flags": {}
     },
     {
-      "name": "baralhos-de-costa",
-      "label": "Baralhos de _Costa",
-      "path": "packs/baralhos-de-costa",
+      "name": "baralhos-do-mestre-costa",
+      "label": "Baralhos do Mestre _Costa",
+      "path": "packs/baralhos-do-mestre-costa",
       "type": "Cards",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -108,9 +108,9 @@
       "flags": {}
     },
     {
-      "name": "cenas-de-costa",
-      "label": "Cenas de _Costa",
-      "path": "packs/cenas-de-costa",
+      "name": "cenas-do-mestre-costa",
+      "label": "Cenas do Mestre _Costa",
+      "path": "packs/cenas-do-mestre-costa",
       "type": "Scene",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -120,9 +120,9 @@
       "flags": {}
     },
     {
-      "name": "diarios-de-costa",
-      "label": "Diários de _Costa",
-      "path": "packs/diarios-de-costa",
+      "name": "diarios-do-mestre-costa",
+      "label": "Diários do Mestre _Costa",
+      "path": "packs/diarios-do-mestre-costa",
       "type": "JournalEntry",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -132,9 +132,9 @@
       "flags": {}
     },
     {
-      "name": "itens-de-costa",
-      "label": "Itens de _Costa",
-      "path": "packs/itens-de-costa",
+      "name": "itens-do-mestre-costa",
+      "label": "Itens do Mestre _Costa",
+      "path": "packs/itens-do-mestre-costa",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -144,9 +144,9 @@
       "flags": {}
     },
     {
-      "name": "tabelas-de-costa",
-      "label": "Tabelas de _Costa",
-      "path": "packs/tabelas-de-costa",
+      "name": "tabelas-do-mestre-costa",
+      "label": "Tabelas do Mestre _Costa",
+      "path": "packs/tabelas-do-mestre-costa",
       "type": "RollTable",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -156,9 +156,9 @@
       "flags": {}
     },
     {
-      "name": "playlists-de-costa",
-      "label": "Playlists de _Costa",
-      "path": "packs/playlists-de-costa",
+      "name": "playlists-do-mestre-costa",
+      "label": "Playlists do Mestre _Costa",
+      "path": "packs/playlists-do-mestre-costa",
       "type": "Playlist",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -168,9 +168,9 @@
       "flags": {}
     },
     {
-      "name": "macros-de-costa",
-      "label": "Macros de _Costa",
-      "path": "packs/macros-de-costa",
+      "name": "macros-do-mestre-costa",
+      "label": "Macros do Mestre _Costa",
+      "path": "packs/macros-do-mestre-costa",
       "type": "Macro",
       "ownership": {
         "PLAYER": "OBSERVER",

@@ -1,0 +1,5 @@
+2023/07/31-22:26:32.728 29b0 Delete type=3 #1
+2023/07/31-22:42:25.417 5bd8 Level-0 table #5: started
+2023/07/31-22:42:25.455 5bd8 Level-0 table #5: 2118 bytes OK
+2023/07/31-22:42:25.500 5bd8 Delete type=0 #3
+2023/07/31-22:42:25.501 5bd8 Manual compaction at level-0 from '!playlists!IA0WgFVgYfMTnIH0' @ 72057594037927935 : 1 .. '!playlists.sounds!IA0WgFVgYfMTnIH0.wmoysv9icTVAKkws' @ 0 : 0; will stop at (end)

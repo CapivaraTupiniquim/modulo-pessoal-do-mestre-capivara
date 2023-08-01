@@ -114,5 +114,4 @@ Token Magic FX v0.6.4.1
 Token Variant Art v4.45.2
 Wall Height v5.0.2
 Warp Gate v1.18.1
-Zoom/Pan Options v1.10.0
 ```

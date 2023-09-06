@@ -1,5 +1,3 @@
-2023/07/31-22:26:19.944 29b0 Delete type=3 #1
-2023/07/31-22:42:25.284 5bd8 Level-0 table #5: started
-2023/07/31-22:42:25.357 5bd8 Level-0 table #5: 41669 bytes OK
-2023/07/31-22:42:25.417 5bd8 Delete type=0 #3
-2023/07/31-22:42:25.501 5bd8 Manual compaction at level-0 from '!folders!ShYUD8j1kbkyWuZy' @ 72057594037927935 : 1 .. '!macros!z5ZEfYSOxm35Io7h' @ 0 : 0; will stop at (end)
+2023/09/06-08:57:57.959 3950 Recovering log #166
+2023/09/06-08:57:58.142 3950 Delete type=0 #166
+2023/09/06-08:57:58.142 3950 Delete type=3 #164

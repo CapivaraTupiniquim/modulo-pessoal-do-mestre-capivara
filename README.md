@@ -23,95 +23,105 @@ Patreon: [Griffins and Claws Studio](https://www.patreon.com/griffinsandclawsstu
 
 
 ## Compatibilidade:
-[Foundry VTT](https://foundryvtt.com/) v11.306
+[Foundry VTT](https://foundryvtt.com/) v11.308
 
-[D&D 5e](https://foundryvtt.com/](https://github.com/foundryvtt/dnd5e)https://github.com/foundryvtt/dnd5e) v2.2.2
+[D&D 5e](https://foundryvtt.com/](https://github.com/foundryvtt/dnd5e)https://github.com/foundryvtt/dnd5e) v2.3.1
 
 ### Módulos Ativados:
 ```
-Active-Auras v0.7.3
+About Face v3.24.2
+About Time v11.0.1
+Active-Auras v0.7.6
 Active Token Effects v0.6.2
 Advanced Macros vv2.0.2
 Autocomplete Inline Properties v2.9.1
-Automated Animations v4.2.62
+Automated Animations v4.2.66
 Better Roofs v1.9.2
-Build-a-Bonus v11.0.5
-Card Hand Mini Toolbar v1.4.0
+Boss Bar v1.1
+Build-a-Bonus v11.2.2
 Card Tokens v0.5.3
 Card Viewer v0.1.8
-Chat Images v3.2
-Chris's Premades v0.5.52
+Chat Media v3.3.5
+Chris's Premades v0.6.69
 Combat Tracker Effect Tooltips v11.0.0
-Compendium Folders v2.6.1
+D&D5e Animations v1.6.0
 D&D5e Character Monitor v1.7.2
 DF Chat Enhancements v4.1.0
 DF Quality of Life v1.8.0
-DFreds Convenient Effects v5.0.3
+DFreds Convenient Effects v5.1.0
 DFreds Droppables v3.0.1
 DFreds Effects Panel v3.1.0
 DF User Logger v1.7.0
 Dice So Nice! v4.6.8
 Dice Tray v1.5.3
 Drag Ruler v1.13.8
-Dynamic effects using Active Effects v11.0.4.1
-Effect Macro v11.0.0
-Filepicker + v3.2
-Force Client Settings v2.3.2
-Forgotten Adventures Battlemaps v1.0.33
+Dynamic effects using Active Effects v11.0.12
+Effect Macro v11.0.1
+Filepicker + v3.6
+Force Client Settings v2.3.3
+Forgotten Adventures Battlemaps v1.0.38
 Foundry Community Macros v10.4
+Foundry to Discord v1.4.3
 GM Vision v1.0.3
-Health Estimate v31.2
+Health Estimate v31.5
+Hover Distance v2.4
 Illandril's Hotbar Uses v3.0.3
 Illandril's Inventory Sorter (5e) v2.1.1
-Illandril's Token Tooltips v3.4.0
-Image Hover v3.0.2
-Item Macro v1.6.0
-Item Piles v2.7.6
-JB2A - Patreon Complete Collection v0.5.8
+Illandril's Token Tooltips v3.4.2
+Image Hover v3.0.3
+Improved Macro Editor v10.1
+Item Macro v1.10.0
+Item Piles v2.7.12
+Ivan Duch's Music Packs v1.8
+JB2A - Patreon Complete Collection v0.5.9
 Let Me Roll That For You! v3.1.8
-Levels v4.1.6
+Levels v4.2
 Levels - Automatic Cover Calculator v1.6
 Levels - Depth Blur v0.4
 lib - Color Settings v2.9.1
 libWrapper v1.12.13.0
+Limits v1.0.2
 LiveKit AVClient v0.5.22
 Mass Edit v1.44.8
-Módulo Pessoal do Mestre _Costa v0.2.3
-Midi QOL v11.0.6
+Módulo Pessoal do Mestre _Costa v0.3.3
+Michael Ghelfi Studios Audio Pack v1.4
+Midi QOL v11.0.14.2
 Midi SRD v11.0.0
 Module Management+ v2.2.3
-Monk's Active Tile Triggers v11.02
+Monk's Active Tile Triggers v11.06
 Monk's Bloodsplats v11.01
-Monk's Combat Details v11.03
-Monk's Little Details v11.04
+Monk's Combat Details v11.06
+Monk's Little Details v11.05
 Monk's Sound Enhancements v11.03
-Monk's Wall Enhancement v11.01
-Moulinette Core v11.2.2
-Moulinette Game Icons (module) v11.0.0
+Monk's Wall Enhancement v11.02
+Moulinette Core v11.4.0
+Moulinette Game Icons (module) v11.1.1
 Moulinette Image Search (module) v11.0.1
-Moulinette Sounds & SoundPad (module) v11.1.0
+Moulinette Sounds & SoundPad (module) v11.4.0
 Moulinette Tiles (module) v11.1.0
 Multilevel Tokens v1.6.0
-Ownership Viewer v11.1
-Plutonium v1.70.2
-Plutonium Addon: Automation v0.5.1
+Ownership Viewer v11.2
+Plutonium v1.70.7
+Plutonium Addon: Automation v0.6.3
 Point of Interest Teleporter v0.3.0
-Polyglot v1.9.4
+Polyglot v2.1.6
 PopOut! v2.14
 Quick Insert - Search Widget v2.8.3
 Roll of Fate v10.1
-Sequencer v3.1.2
+Sequencer v3.1.4
 Show Art v1.3.0
 Simbul's Athenaeum v1.0.5
 Simbul's Creature Aide v1.1.4
-Simple Calendar v2.3.16
+Simple Calendar v2.3.20
 socketlib v1.0.13
 Tagger v1.4.5
 Template Macro v11.0.0
-Tidy5e Sheet v0.9.16
-Times Up v11.0.2
+Tidy5e Sheet v0.9.18
+Times Up v11.0.3
+Token Attacher vv4.5.13
 Token Magic FX v0.6.4.1
-Token Variant Art v4.45.2
-Wall Height v5.0.2
+Token Variant Art v4.53.2
+Universal Battlemap Importer v2.6.1
+Wall Height v5.0.3
 Warp Gate v1.18.1
 ```

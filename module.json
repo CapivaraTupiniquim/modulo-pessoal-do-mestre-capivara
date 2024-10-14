@@ -1,6 +1,6 @@
 {
-  "id": "modulo-pessoal-do-mestre-costa",
-  "title": "Módulo Pessoal do Mestre _Costa",
+  "id": "modulo-pessoal-do-mestre-capivara",
+  "title": "Módulo Pessoal do Mestre Capivara",
   "version": "0.3.3",
   "compatibility": {
     "minimum": "11",
@@ -65,23 +65,23 @@
   "description": "Esse módulo contém cenas, atores, diários, macros, playlists, baralhos e itens de minha campanha Contos em Khorvaire, customizados e outros",
   "authors": [
     {
-      "name": "_Costa",
-      "discord": "_costa",
+      "name": "Capivara",
+      "discord": "capivaratupi",
       "url": "https://ko-fi.com/O5O5MO0RL",
       "flags": {}
     }
   ],
-  "url": "https://github.com/GabrielOsvair/modulo-pessoal-do-mestre-costa",
-  "manifest": "https://raw.githubusercontent.com/GabrielOsvair/modulo-pessoal-do-mestre-costa/main/module.json",
-  "download": "https://codeload.github.com/GabrielOsvair/modulo-pessoal-do-mestre-costa/zip/main",
+  "url": "https://github.com/CapivaraTupiniquim/modulo-pessoal-do-mestre-capivara",
+  "manifest": "https://raw.githubusercontent.com/CapivaraTupiniquim/modulo-pessoal-do-mestre-capivara/main/module.json",
+  "download": "https://codeload.github.com/CapivaraTupiniquim/modulo-pessoal-do-mestre-capivara/zip/main",
   "media": [
         {
             "type": "cover",
-            "url": "https://github.com/GabrielOsvair/modulo-pessoal-do-mestre-costa/main/preview.jpg"
+            "url": "https://github.com/CapivaraTupiniquim/modulo-pessoal-do-mestre-capivara/main/preview.jpg"
         },
         {
             "type": "setup",
-            "url": "modules/modulo-pessoal-do-mestre-costa/preview.jpg"
+            "url": "modules/modulo-pessoal-do-mestre-capivara/preview.jpg"
         }
     ],
   "packs": [
